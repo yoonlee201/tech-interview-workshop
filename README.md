@@ -15,6 +15,11 @@ Below are the instructions for this assignment. Your repository should automatic
 
 **Your grade will be determined by the completed repository and survey, _not_ the quality of your code/feedback. Each student should complete the post-survey and create an individual repository from their turn as the interviewee.**
 
+**Due:** 
+
+* Wednesday (9/4)
+* Please submit whatever code you complete in class for your repository before the end of class, and complete the survey before midnight.
+
 ### 📝 TODO: Complete this section
 
 * **Your name and PID**:
